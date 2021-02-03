@@ -22,5 +22,5 @@ this is horizantal line
 - milk 
 - **italic**
 - **bold**
-- how to open hyper links [apssdc] (https://www.apssdc.in )
-- [ciet college] (https://www.chalapathiengg.com)
+- how to open hyper links [apssdc](https://www.apssdc.in )
+- [ciet college](https://www.chalapathiengg.com)
