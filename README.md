@@ -19,7 +19,8 @@ this is horizantal line
 
 - coffeee
 - tea
-- milk
-
-
-
+- milk 
+- **italic**
+- **bold**
+- how to open hyper links [apssdc] (https://www.apssdc.in )
+- [ciet college] (https://www.chalapathiengg.com)
