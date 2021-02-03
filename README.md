@@ -13,9 +13,9 @@ I am pursuing 3rdyear btech
 this is horizantal line
 ***
 
-1.cricket
-2.hockey
-3.kabaddi
+1. cricket
+2. hockey
+3. kabaddi
 
 - coffeee
 - tea
